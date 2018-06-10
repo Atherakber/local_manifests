@@ -18,7 +18,6 @@
   <project name="rINanDO/android_hardware_libhardware" path="hardware/libhardware" remote="github" revison="lineage-15.1" />
   <project name="rINanDO/android_hardware_samsung" path="hardware/samsung" remote="github" revison="lineage-15.1" />
   <project name="rINanDO/android_kernel_samsung_smdk4412" path="kernel/samsung/smdk4412" remote="github" revison="lineage-15.1" />
-  <project name="rINanDO/android_system_connectivity_wificond" path="system/connectivity/wificond" remote="github" revison="lineage-15.1" />
   <project name="rINanDO/android_system_core" path="system/core" remote="github" revison="lineage-15.1" />
   <project name="rINanDO/android_vendor_lineage" path="vendor/lineage" remote="github" revison="lineage-15.1" />
   <project name="rINanDO/proprietary_vendor_samsung" path="vendor/samsung" remote="github" revision="lineage-15.1" />
