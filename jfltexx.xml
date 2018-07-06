@@ -3,7 +3,7 @@
   <remove-project name="LineageOS/android_device_qcom_sepolicy" />
   <remove-project name="LineageOS/android_system_core" />
   <project name="Buff99/device_qcom_sepolicy" path="device/qcom/sepolicy" remote="github" revision="o8.1" />
-  <project name="Buff99/oreo_samsung_jf-common" path="device/samsung/jf-common" remote="github" revision="o8.1" />
+  <project name="Buff99/oreo_samsung_jf-common" path="device/samsung/jf-common" remote="github" revision="lineage-15.1" />
   <project name="Buff99/platform_kernel_samsung_jf" path="kernel/samsung/jf" remote="github" revision="aosp-8.1-vend" />
   <project name="Buff99/proprietary_vendor_samsung" path="vendor/samsung" remote="github" revision="oreo" />
   <project name="Buff99/system_core" path="system/core" remote="github" revision="o8.1" />
