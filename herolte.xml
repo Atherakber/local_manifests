@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
+  <project name="ripee/android_device_samsung_herolte" path="device/samsung/herolte" remote="github" revision="lineage-15.1" />
   <project name="ripee/seals_something_anotherhing" path="device/samsung/hero-common" remote="github" revision="bsp" />
-  <project name="ivanmeler/android_device_samsung_herolte" path="device/samsung/herolte" remote="github" revision="lineage-15.1" />
   <project name="ivanmeler/android_hardware_samsung" path="hardware/samsung" remote="github" revision="lineage-15.1" />
   <project name="ivanmeler/android_hardware_samsung_slsi-cm_exynos" path="hardware/samsung_slsi-cm/exynos" remote="github" revision="lineage-15.1" />
   <project name="ivanmeler/android_hardware_samsung_slsi-cm_exynos5" path="hardware/samsung_slsi-cm/exynos5" remote="github" revision="lineage-15.1" />
