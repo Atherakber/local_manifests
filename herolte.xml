@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project name="Haxynox/seals_something_anotherhing" path="device/samsung/hero-common" remote="github" revision="bsp" />
   <project name="ivanmeler/android_device_samsung_herolte" path="device/samsung/herolte" remote="github" revision="lineage-15.1" />
   <project name="ivanmeler/android_hardware_samsung" path="hardware/samsung" remote="github" revision="lineage-15.1" />
   <project name="ivanmeler/android_hardware_samsung_slsi-cm_exynos" path="hardware/samsung_slsi-cm/exynos" remote="github" revision="lineage-15.1" />
@@ -11,4 +10,5 @@
   <project name="ivanmeler/linaro" path="prebuilts/gcc/linux-x86/aarch64/aarch64-linux-linaro" remote="github" revision="master" />
   <project name="ivanmeler/proprietary_vendor_samsung_hero-common" path="vendor/samsung/hero-common" remote="github" revision="bsp" />
   <project name="LineageOS/android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="github" revision="lineage-15.1" />
+  <project name="ripee/android_device_samsung_hero-common" path="device/samsung/hero-common" remote="github" revision="lineage-15.1" />
 </manifest>
