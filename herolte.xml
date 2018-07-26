@@ -10,5 +10,5 @@
   <project name="LineageOS/android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="github" revision="lineage-15.1" />
   <project name="ripee/android_device_samsung_herolte" path="device/samsung/herolte" remote="github" revision="lineage-15.1" />
   <project name="ripee/proprietary_vendor_samsung_hero-common" path="vendor/samsung/hero-common" remote="github" revision="bsp" />
-  <project name="ripee/seals_something_anotherhing" path="device/samsung/hero-common" remote="github" revision="bsp" />
+  <project name="ripee/seals_something_anotherhing" path="device/samsung/hero-common" remote="github" revision="sdfat" />
 </manifest>
