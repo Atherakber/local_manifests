@@ -5,7 +5,6 @@
   <remove-project name="LineageOS/android_frameworks_av" />
   <remove-project name="LineageOS/android_frameworks_base" />
   <remove-project name="LineageOS/android_frameworks_native" />
-  <remove-project name="LineageOS/android_frameworks_opt_telephony" />
   <remove-project name="LineageOS/android_hardware_interfaces" />
   <remove-project name="LineageOS/android_packages_services_Telephony" />
   <remove-project name="LineageOS/android_system_core" />
@@ -18,7 +17,6 @@
   <project name="rINanDO/android_frameworks_av" path="frameworks/av" remote="github" revison="lineage-15.1" />
   <project name="rINanDO/android_frameworks_base" path="frameworks/base" remote="github" revison="lineage-15.1" />
   <project name="rINanDO/android_frameworks_native" path="frameworks/native" remote="github" revison="lineage-15.1" />
-  <project name="rINanDO/android_frameworks_opt_Telephony" path="frameworks/opt/Telephony" remote="github" revison="lineage-15.1" />
   <project name="rINanDO/android_hardware_interfaces" path="hardware/interfaces" remote="github" revison="lineage-15.1" />
   <project name="rINanDO/android_hardware_samsung" path="hardware/samsung" remote="github" revison="lineage-15.1" />
   <project name="rINanDO/android_kernel_samsung_smdk4412" path="kernel/samsung/smdk4412" remote="github" revison="lineage-15.1" />
