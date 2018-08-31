@@ -1,12 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <remove-project name="LineageOS/android_bionic" />
-  <remove-project name="LineageOS/android_build" />
   <remove-project name="LineageOS/android_system_core" />
-  <remove-project name="LineageOS/android_system_sepolicy" />
-  <project name="Buff99/android_build" path="build" remote="github" revision="oreo" />
   <project name="Buff99/android_hardware_samsung" path="hardware/samsung" remote="github" revision="lineage-15.1" />
-  <project name="Buff99/android_system_sepolicy" path="system/sepolicy" remote="github" revision="oreo" />
   <project name="Buff99/platform_kernel_samsung_jf" path="kernel/samsung/jf" remote="github" revision="aosp-8.1-cock" />
   <project name="Buff99/proprietary_vendor_samsung" path="vendor/samsung" remote="github" revision="oreo" />
   <project name="Buff99/system_core" path="system/core" remote="github" revision="oreo" />
